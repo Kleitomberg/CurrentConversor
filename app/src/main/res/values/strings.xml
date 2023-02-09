@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">currency converter</string>
+    <string name="qual_o_valor_em_r">Qual o Valor em R$?</string>
+    <string name="valor_em_dolar">Valor em Dolar:</string>
+    <string name="valor_em_euro">Valor em Euro:</string>
+    <string name="calcular">Calcular</string>
+    <string name="error_sem_valor">Error: Nenhum valor foi informado!</string>
+</resources>
